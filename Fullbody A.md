@@ -1,73 +1,49 @@
-Fullbody A
+Fullbody B
 
 X       Adv Tuck Front Lever
 X       Tuck Planche
 
-5x5     Weighted Dips
-5x5     Weighted Pull Ups
+3x10    Straight Bar Dips
+3x5     High Pull Ups
 
-3x8-10  RTO Push Ups
+3x2-5   Pullovers
 3x8-10  Pistols Squats
 
-3x8-10  Bodyweight Rows
+3x5     Jump Muscle Ups
 3x8-10  Step Ups
 
 ==============================
 
-Vendredi 15.09.17
+Mercredi 13.09.17
 
 Adv Tuck Front Lever    
 
-12 
-12
-12
-12
-12
+11 11 11 11 11
 
 Tuck Planche 
 
-10
-10
-10
-10
-10
+9 9 9 9 9
 
-Weighted Dips
+Straight Bar Dips
 
-5x22kg
-5x22kg
-5x22kg
-5x22kg
-5x22kg
+10 10 10
 
-Weighted Pull Ups
+High Pull Ups
 
-5x12kg
-5x12kg
-5x12kg
-5x12kg
-4x12kg (Fail)
+5 5 5
 
-RTO Push Ups
+Pullovers
 
-8x2kg
-8x2kg
-8x2kg
+2 2 2
 
 Pistols Squats
 
-8
-8
-8
+8 8 8
 
-Bodyweight Rows
+Jump Muscle Ups
 
-8x2kg
-8x2kg
-8x2kg
+5 5 5 
 
 Step Ups
 
-9x12
-9x12
-9x12
+8x12kg 8x12kg 8x12kg
